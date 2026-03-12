@@ -1,10 +1,10 @@
-# Kişisel Web Sitesi
+# Personal Website Project
 
-Bu proje HTML ve CSS kullanılarak geliştirilmiş bir web sitesi çalışmasıdır.
+This project is a simple website created using HTML and CSS.
 
-Bu projede:
-- HTML sayfa yapısı
-- CSS ile tasarım
-- temel responsive düzen
+## Technologies
+- HTML
+- CSS
 
-üzerine çalışmalar yapılmıştır.
+## Purpose
+This project was created to practice front-end development and web design.

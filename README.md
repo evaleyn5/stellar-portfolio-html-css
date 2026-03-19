@@ -11,7 +11,7 @@ This is a **personal portfolio website** built using **HTML and CSS**. It showca
 ## 🛠️ Technologies Used
 - HTML  
 - CSS  
-- Basic video and image integration  
+- Basic multimedia integration  
 
 ## 🧠 What I Learned
 - Structuring web pages using HTML  

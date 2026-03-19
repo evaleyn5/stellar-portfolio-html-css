@@ -2,6 +2,12 @@
 
 This is a **personal portfolio website** built using **HTML and CSS**. It showcases my front-end development skills, design sense, and ability to create visually appealing web pages.
 
+
+## 🌐 Live Demo
+
+https://evaleyn5.github.io/stellar-portfolio-html-css/
+
+
 ## 🚀 Features
 - 🏠 Homepage (`index.html`)  
 - 🌌 Space-themed page (`uzay.html`)  
@@ -11,7 +17,14 @@ This is a **personal portfolio website** built using **HTML and CSS**. It showca
 ## 🛠️ Technologies Used
 - HTML  
 - CSS  
-- Basic multimedia integration  
+- Basic multimedia integration
+
+
+ ## 📸 Preview
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+
 
 ## 🧠 What I Learned
 - Structuring web pages using HTML  
@@ -32,15 +45,6 @@ This is a **personal portfolio website** built using **HTML and CSS**. It showca
 
 This project demonstrates my front-end development skills and design abilities for portfolio purposes.
 
-## 🌐 Live Demo
-
-https://evaleyn5.github.io/stellar-portfolio-html-css/gezegen.html
-
-
-## 📸 Preview
-
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
 
 👩‍💻 Developer
 
